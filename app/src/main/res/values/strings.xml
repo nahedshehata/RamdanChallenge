@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ramadan</string>
+    <string name="isha">Isha</string>
+    <string name="ishatime">7: 26 PM</string>
+    <string name="asr">Asr</string>
+    <string name="timeFajr">4:29 AM</string>
+    <string name="fajr">Fajr</string>
+    <string name="duhr">Duhr</string>
+    <string name="time_duhr">12:02 PM</string>
+    <string name="timeasr">3:30 PM</string>
+    <string name="magrib">Magrib</string>
+    <string name="timemagrib">6:08 PM</string>
+</resources>
